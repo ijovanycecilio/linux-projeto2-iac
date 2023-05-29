@@ -18,9 +18,15 @@ When deploying infrastructure as code, it is also possible to break it down into
 # Definitions
 
   Restore the previously created snapshot in VirtualBox;
+  
   Update the server;
+  
   Install Apache2;
+  
   Install unzip;
+  
   Download the application available at https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip to the /tmp directory;
+  
   Copy the application files to the default Apache directory;
+  
   Upload the script file to a repository on GitHub.
